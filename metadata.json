@@ -1,0 +1,6 @@
+{
+  "name": "Apex Circuit",
+  "description": "Arcade circuit car racing game with multiple walled tracks, customizable race cars, AI opponents, lap timing, and synthesized sound and music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
