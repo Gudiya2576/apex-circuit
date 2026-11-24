@@ -213,17 +213,20 @@ For Vercel, connect your GitHub repository and use the following build settings:
 
 ---
 
+
 ## 👨‍💻 Author
 
-**Your Name**
+**Gudiya**
 
-GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
+- GitHub Profile: [@Gudiya2576](https://github.com/Gudiya2576)
+- Project Repository: [Apex Circuit](https://github.com/Gudiya2576/apex-circuit)
 
 ---
 
-## 📄 License
+<p align="center">
+  Developed with passion by Gudiya ❤️
+</p>
 
-No license has been specified yet. All rights are reserved by the project owner unless a license is added.
 
 ---
 
